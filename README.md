@@ -27,9 +27,11 @@ Atualmente participando do programa de formação de desenvolvedor fullstack da 
   <div>
     <a href = "mailto:jc.moraespereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jessicacmpprado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    ##
+    
+     ![Snake animation](https://github.com/jcmpprado/jcmpprado/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  ##
-  
-    ![Snake animation](https://github.com/jcmpprado/jcmpprado/blob/output/github-contribution-grid-snake.svg)
+ 
 
