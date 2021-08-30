@@ -31,4 +31,5 @@ Atualmente participando do programa de formação de desenvolvedor fullstack da 
   
   ##
   
-  
+    ![Snake animation](https://github.com/jcmpprado/jcmpprado/blob/output/github-contribution-grid-snake.svg)
+
