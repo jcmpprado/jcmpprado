@@ -1,4 +1,4 @@
-## Olá, eu sou a Jéssica Prado.
+## Olá, eu sou a Jéssica.
 
 Com mais de 8 anos de experiência na área comercial, passando por diversos setores, desenvolvendo projetos visando a melhoria dos mesmos e adquirindo soft skills como resiliência, trabalho em equipe, senso de liderança e boa comunicação.
 
