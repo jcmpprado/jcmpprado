@@ -2,8 +2,13 @@
 
 Com mais de 8 anos de experiência na área comercial, passando por diversos setores, desenvolvendo projetos visando a melhoria dos mesmos e adquirindo soft skills como resiliência, trabalho em equipe, senso de liderança e boa comunicação.
 
-Apaixonada por tecnologia e em transição de carreira para a área de desenvolvimento de software.
-Atualmente participando do programa de formação de desenvolvedor fullstack da Gama Academy.
+Apaixonada por tecnologia e em transição de carreira para a área de desenvolvimento de software, participei do treinamento Fullstack da Gama Academy em parceria com a Ambev Tech, um programa baseado em conteúdos e desafios, para que a gente possa aprender mais na prática. Como conteúdo, tivemos: Lógica de programação | Html | Css | JavaScript | Metodologias ágeis | Estrutura de dados | Typescript | NodeJs | React | GraphQL | Noções de arquitetura web | REST API | Testes.
+
+Atualmente participando do programa de formação de desenvolvedor Frontend da Alura em parceria com a Fly Educação.
+
+<div align="center">
+  <img height="180em" align="center" src="https://user-images.githubusercontent.com/87131837/138440858-11ac4475-00f8-4f8e-986d-af3f4fded3f9.png">
+</div>
 
 <div>
   <a href="https://github.com/jcmpprado">
@@ -23,11 +28,13 @@ Atualmente participando do programa de formação de desenvolvedor fullstack da 
 </div>
   
   ##
-  #### Onde me encontrar
+  #### Onde me encontrar  
   <div>
     <a href = "mailto:jc.moraespereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jessicacmpprado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/jessicacmpprado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+
   
  
 
