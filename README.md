@@ -1,8 +1,16 @@
 ## Olá, eu sou a Jéssica.
 
-Apaixonada por tecnologia, participei do treinamento Fullstack da Gama Academy em parceria com a Ambev Tech, um programa baseado em conteúdos e desafios, para que a gente possa aprender mais na prática. Como conteúdo, tivemos: Lógica de programação | Html | Css | JavaScript | Metodologias ágeis | Estrutura de dados | Typescript | NodeJs | React | GraphQL | Noções de arquitetura web | REST API | Testes.
+Apaixonada por tecnologia. 
+Proativa, dinâmica e inquieta por natureza.
 
-Atualmente participando do programa de formação de desenvolvedor Frontend da Alura em parceria com a Fly Educação.
+🚀 Formação Fullstack pela Gama Academy
+🚀 Formação Frontend pela Alura.
+
+Stack Backend: Java, NodeJs, REST APIs e TDD
+
+Stack Frontend: HTML, CSS, Javascript, React e VueJs
+
+Fique à vontade para me adicionar. É um prazer ter você por aqui :)
 
 <div align="center">
   <img height="180em" align="center" src="https://user-images.githubusercontent.com/87131837/138440858-11ac4475-00f8-4f8e-986d-af3f4fded3f9.png">
