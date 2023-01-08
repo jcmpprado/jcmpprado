@@ -7,7 +7,7 @@
 Proativa, dinâmica e inquieta por natureza.
 
 🚀 Formação Fullstack pela Gama Academy
-🚀 Formação Frontend pela Alura.
+🚀 Formação Frontend pela Alura
 
 Stack Backend: Java, NodeJs, REST APIs e TDD
 
