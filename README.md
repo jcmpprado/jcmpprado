@@ -1,6 +1,9 @@
 ## Olá, eu sou a Jéssica.
 
-Apaixonada por tecnologia. 
+<div align="center">
+  Apaixonada por tecnologia. 
+</div>
+
 Proativa, dinâmica e inquieta por natureza.
 
 🚀 Formação Fullstack pela Gama Academy
