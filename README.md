@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/87131837/138440858-11ac4475-00f8-4f8e-986d-af3f4fded3f9.png" width=380px >
+
 ## Olá, eu sou a Jéssica.
 
 <div align="center">
@@ -15,9 +17,6 @@ Stack Frontend: HTML, CSS, Javascript, React e VueJs
 
 Fique à vontade para me adicionar. É um prazer ter você por aqui :)
 
-<div align="center">
-  <img height="180em" align="center" src="https://user-images.githubusercontent.com/87131837/138440858-11ac4475-00f8-4f8e-986d-af3f4fded3f9.png">
-</div>
 
 <div>
   <a href="https://github.com/jcmpprado">
